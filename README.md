@@ -27,4 +27,6 @@ Hello there! I'm Umar Farooq, a passionate Full-Stack MERN/MEAN developer with t
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-## GitHub Stats
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Umar-Farooq-Shafi&theme=dark&background=000000)](https://git.io/streak-stats)
+
