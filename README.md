@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to My GitHub Profile 👋
 
 <!--
 **Umar-Farooq-Shafi/Umar-Farooq-Shafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
