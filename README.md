@@ -4,7 +4,5 @@ Hello there! I'm Umar Farooq, a passionate Full-Stack MERN/MEAN developer with t
 
 - 🔭 Currently working at 3Amigos as a Full Stack Developer.
 - 👯 Open to collaborations and interesting projects.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 Reach me at umarfarooqshafi2101@gmail.com or LinkedIn.
+- 📫 Reach me at umarfarooqshafi2101@gmail.com or [LinkedIn](https://www.linkedin.com/in/umar-farooq-180ba51ba/).
 - 😄 Pronouns: Omar
