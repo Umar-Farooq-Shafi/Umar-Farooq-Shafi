@@ -9,15 +9,7 @@ Hello there! I'm Umar Farooq, a passionate Full-Stack MERN/MEAN developer with t
 - 📫 Reach me at umarfarooqshafi2101@gmail.com, [Upwork](https://www.upwork.com/freelancers/umarfaruq) or [LinkedIn](https://www.linkedin.com/in/umar-farooq-180ba51ba/).
 - 😄 Pronouns: Omar
 
-<br clear="both">
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Umar-Farooq-Shafi&hide_title=false&hide_rank=false&show_icons=true&icon_color=ffffff&include_all_commits=true&&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Umar-Farooq-Shafi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
 ###
-<br>
 
 ## Tech Stack
 
@@ -37,3 +29,10 @@ Hello there! I'm Umar Farooq, a passionate Full-Stack MERN/MEAN developer with t
 
 ### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Umar-Farooq-Shafi)](https://git.io/streak-stats)
+
+<br clear="both">
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Umar-Farooq-Shafi&hide_title=false&hide_rank=false&show_icons=true&icon_color=ffffff&include_all_commits=true&&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Umar-Farooq-Shafi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
