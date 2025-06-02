@@ -6,7 +6,7 @@ Hello there! I'm Umar Farooq, a passionate Full-Stack MERN/MEAN developer with t
 
 - 🔭 Currently working at 3Amigos as a Full Stack Developer.
 - 👯 Open to collaborations and interesting projects.
-- 📫 Reach me at umarfarooqshafi2101@gmail.com, [Upwork](https://www.upwork.com/freelancers/umarfaruq) or [LinkedIn](https://www.linkedin.com/in/umar-farooq-180ba51ba/).
+- 📫 Reach me at umarfaroqit@gmail.com, [Upwork](https://www.upwork.com/freelancers/umarfaruq) or [LinkedIn](https://www.linkedin.com/in/umar-farooq-180ba51ba/).
 - 😄 Pronouns: Omar
 
 ###
