@@ -1,12 +1,12 @@
 ### Welcome to My GitHub Profile 👋
 
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
-I'm Umar Farooq, a passionate Full-Stack MERN/MEAN developer with 5+ years of Laravel, Filament development. I'm excited about creating efficient, scalable, and innovative applications.
+I'm Umar Farooq, a passionate Full-Stack MERN/MEAN developer with 6+ years of Laravel, Filament development. I'm excited about creating efficient, scalable, and innovative applications.
 
 ## About Me
 
 - 👯 Open to collaborations and interesting projects.
-- 📫 Reach me at umarfaroqit@gmail.com, [Upwork](https://www.upwork.com/freelancers/umarfaruq) or [LinkedIn](https://www.linkedin.com/in/umar-farooq-180ba51ba/).
+[//]: <> (- 📫 Reach me at umarfaroqit@gmail.com, [Upwork](https://www.upwork.com/freelancers/umarfaruq) or [LinkedIn](https://www.linkedin.com/in/umar-farooq-180ba51ba/).)
 - 😄 Pronouns: Omar
 
 ###
