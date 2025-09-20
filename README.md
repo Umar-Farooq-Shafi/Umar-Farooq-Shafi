@@ -6,7 +6,9 @@ I'm Umar Farooq, a passionate Full-Stack MERN/MEAN developer with 6+ years of La
 ## About Me
 
 - 👯 Open to collaborations and interesting projects.
-[//]: <> (- 📫 Reach me at umarfaroqit@gmail.com, [Upwork](https://www.upwork.com/freelancers/umarfaruq) or [LinkedIn](https://www.linkedin.com/in/umar-farooq-180ba51ba/).)
+<!---
+- 📫 Reach me at umarfaroqit@gmail.com, [Upwork](https://www.upwork.com/freelancers/umarfaruq) or [LinkedIn](https://www.linkedin.com/in/umar-farooq-180ba51ba/).
+-->
 - 😄 Pronouns: Omar
 
 ###
